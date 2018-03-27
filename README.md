@@ -5,19 +5,22 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 ### What is this repository for? ###
 
 * Quick summary
-	- a Bitbucket or Github account
-	- some repositories created
-	- lots of issues / branches / commits
-	- some expertise on javascript to hangle the configuration or setup of `D3.js`
-	- [Github Pages](https://pages.github.com/) to show graphically the results
+
 * Version
 	- 1.1
 
 ### How do I get set up? ###
 
 * Summary of set up
+	- a [Bitbucket](http://bitbucket.org/) or [Github](http://github.com/) account
+	- some [repositories](https://bitbucket.org/imhicihu/) created
+	- lots of issues/branches/commits done
+	- some expertise on javascript to handle the configuration and setup of `D3.js` on the webpage (`.html`)
+	- [Github Pages](https://pages.github.com/) to show graphically the results
+	- an account on [Feedly](http://feedly.com/) to verify the online status and their correct _timeline_
 * Configuration
 * Dependencies
+	- No dependencies
 * Database configuration
 * How to run tests
 * Deployment instructions
