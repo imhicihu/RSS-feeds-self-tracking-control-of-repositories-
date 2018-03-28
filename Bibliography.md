@@ -1,0 +1,1 @@
+* _Interactive Data Visualization for the Web: An Introduction to Designing with D3_: Scott Murray, (O'Reilly Media, 2017)
