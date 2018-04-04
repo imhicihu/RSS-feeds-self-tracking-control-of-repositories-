@@ -44,4 +44,4 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 * Repo owner or admin
 	- Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-	- Contact our [Board]https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/addon/trello/trello-board)
+	- Contact our [Board](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/addon/trello/trello-board)
