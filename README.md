@@ -10,6 +10,9 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 
 * Quick summary
 	- a kind of  graphical tapestry  based on all actions done, along the time. Essentially, it's a way to get familiarize with most data visualization tools for future  projects
+	
+	![feed.png](https://bitbucket.org/repo/aBjx4q/images/1626076599-feed.png)
+	
 * Version
 	- 1.1
 
