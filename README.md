@@ -5,7 +5,7 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 ### What is this repository for? ###
 
 * Quick summary
-
+	- a kind of  graphical tapestry  based on all actions done, along the time.. Essentially, it's a way to get familiarize with most data visualization tools for future  projects
 * Version
 	- 1.1
 
@@ -20,7 +20,7 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 	- an account on [Feedly](http://feedly.com/) to verify the online status and their correct _timeline_
 * Configuration
 * Dependencies
-	- No dependencies
+	- an internet connection, a computer, a rss viewer or an internet browser
 * Database configuration
 * How to run tests
 * Deployment instructions
@@ -34,4 +34,6 @@ This repo's purpose its a way to monitor all the RSS feeds of all of repos. A ki
 ### Who do I talk to? ###
 
 * Repo owner or admin
+	- Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
+	- Contact our [Board]https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/addon/trello/trello-board)
