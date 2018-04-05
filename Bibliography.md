@@ -5,4 +5,4 @@
 * _Create Web Charts with D3_: Fabio Nelli, (Apress, 2014)
 
 ### Data visualization
-Tufte, Edward Rolf: "Envisioning information", Graphics Press, 1990, ISBN: 9780961392116 (read ---> done!)
+* Tufte, Edward Rolf: "Envisioning information", Graphics Press, 1990, ISBN: 9780961392116 (read ---> done!)
