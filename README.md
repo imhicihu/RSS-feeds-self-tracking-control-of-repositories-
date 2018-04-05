@@ -1,6 +1,6 @@
 # Rationale #
 
-This repo's purpose its a way to monitor all the RSS feeds of our repos. A kind of `Grand Central Station` with one only purpose: to visualize all data graphically. One tool on mind: [D3.js](https://d3js.org/).
+This repo's purpose its a way to monitor all the RSS feeds of our repos. A kind of `Grand Central Station` with one only purpose: to visualize all data graphically. One tool in mind: [D3.js](https://d3js.org/).
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
