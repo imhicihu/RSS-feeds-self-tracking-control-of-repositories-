@@ -27,17 +27,12 @@ This repo's purpose its a way to monitor all the RSS feeds of our repos. A kind 
 	- an account on [Feedly](http://feedly.com/) to verify the online status and their correct _timeline_
 	- knowledge of Javascript language (`.js`)
 * Configuration
+	- In process
 * Dependencies
-	- an internet connection, a computer, a rss viewer or an internet browser
-* Database configuration
-* How to run tests
+	- an internet connection, a computer, a rss viewer or an internet browser. Go to our Github Page (in process). And browse the variables offered.
 * Deployment instructions
+	- In process
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
