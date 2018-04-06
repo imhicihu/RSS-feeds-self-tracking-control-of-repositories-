@@ -3,6 +3,7 @@
 * _Data Visualization with JavaScript_: Stephen A. Thomas, (No Starch Press, 2015)
 * _D3.js By Example_: Michael Heydt, (Packt Publishing, 2015)
 * _Create Web Charts with D3_: Fabio Nelli, (Apress, 2014)
+* _Learning D3.Js Data Visualization - Second Edition_: Aendrew Rininsland, (Packt Publishing, 2016)
 
 ### Data visualization
 * Tufte, Edward Rolf: "Envisioning information", Graphics Press, 1990, ISBN: 9780961392116 (read ---> done!)
