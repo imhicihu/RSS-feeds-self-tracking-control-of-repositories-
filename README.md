@@ -1,6 +1,6 @@
 # Rationale #
 
-This repo's purpose its a way to monitor all the RSS feeds of our repos. A kind of `Grand Central Station` with just one  _raison d'Ãªtre_: to visualize all data graphically. Some tools in mind: [D3.js](https://d3js.org/); [HighCharts](https://www.highcharts.com/demo) plus some more.
+This repo's purpose is a way to monitor all the RSS feeds of all of our repositories. A kind of `Hub of feeds` with just one  _raison d'être_: visualize all data graphically. Some tools in mind: [D3.js](https://d3js.org/); [HighCharts](https://www.highcharts.com/demo) plus some more.
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
